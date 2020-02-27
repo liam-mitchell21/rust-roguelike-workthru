@@ -1,1 +1,1 @@
-/home/liam/gamecode/rust-roguelike-workthru/roguelike/target/release/roguelike: /home/liam/gamecode/rust-roguelike-workthru/roguelike/src/main.rs
+/home/liam/rust-roguelike-workthru/roguelike/target/release/roguelike: /home/liam/rust-roguelike-workthru/roguelike/src/main.rs
